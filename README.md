@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 none empty
 <<<<<<< HEAD
 README updated version
@@ -9,3 +10,7 @@ Updating the file
 README updated version
 
 >>>>>>> 74a82838deed1f7a61951a9ac9de51f99f0c832d
+=======
+updated README
+
+>>>>>>> 1e710d99a276a6b1980a50d99cd1252ce6cf3da6
